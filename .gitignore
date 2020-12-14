@@ -2,7 +2,7 @@
 *.iml
 *.log
 *.jar
-*.var
+*.war
 *.log
 
 # Folders Ignoring
